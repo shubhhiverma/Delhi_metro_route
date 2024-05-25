@@ -1,1 +1,1 @@
-An app that help travvellers to navigate in Delhi seamlessly.
+An app that helps travellers to navigate in Delhi seamlessly.
